@@ -6372,11 +6372,11 @@ iframe[seamless] {
   margin-bottom: 70px;
 }
 .marketing h1 {
-  margin-top: 60px;
-  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
-  font-size: 50px;
-  font-weight: 300;
+  font-size: 40px;
+  font-weight: 200;
 }
 .marketing h3 {
   font-size: 34px;
@@ -6522,7 +6522,7 @@ iframe[seamless] {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 26px;
+    font-size: 40px;
   }
   .jumbotron h2 {
     font-size: 20px;
