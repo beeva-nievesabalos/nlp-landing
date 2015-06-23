@@ -2098,6 +2098,56 @@ fieldset[disabled] .btn-primary.active {
   color: #247294;
   background-color: #ffffff;
 }
+
+
+
+
+.btn-sec {
+  color: #333333;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.btn-sec:hover,
+.btn-sec:focus,
+.btn-sec:active,
+.btn-sec.active,
+.open .dropdown-toggle.btn-sec {
+  color: #ffffff;
+  background-color: #999999;
+  border-color: #ffffff;
+}
+.btn-sec:active,
+.btn-sec.active,
+.open .dropdown-toggle.btn-sec {
+  background-image: none;
+}
+.btn-sec.disabled,
+.btn-sec[disabled],
+fieldset[disabled] .btn-sec,
+.btn-sec.disabled:hover,
+.btn-sec[disabled]:hover,
+fieldset[disabled] .btn-sec:hover,
+.btn-sec.disabled:focus,
+.btn-sec[disabled]:focus,
+fieldset[disabled] .btn-sec:focus,
+.btn-sec.disabled:active,
+.btn-sec[disabled]:active,
+fieldset[disabled] .btn-sec:active,
+.btn-sec.disabled.active,
+.btn-sec[disabled].active,
+fieldset[disabled] .btn-sec.active {
+  background-color: #ffd539;
+  border-color: #ffffff;
+}
+.btn-sec .badge {
+  color: #ffd539;
+  background-color: #ffffff;
+}
+
+
+
+
+
 .btn-success {
   color: #ffffff;
   background-color: #5cb85c;
