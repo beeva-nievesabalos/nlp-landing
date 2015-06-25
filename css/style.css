@@ -3771,7 +3771,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  padding: 10px 10px;
+  padding: 20px 20px;
   font-size: 18px;
   line-height: 20px;
 }
@@ -4417,8 +4417,8 @@ a.list-group-item.active > .badge,
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .container .jumbotron {
     padding-left: 60px;
@@ -6419,7 +6419,7 @@ iframe[seamless] {
   margin-top: -50px;
 }
 .marketing {
-  margin-bottom: 70px;
+  margin-bottom: 30px;
 }
 .marketing h1 {
   margin-top: 20px;
