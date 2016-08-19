@@ -6576,3 +6576,26 @@ iframe[seamless] {
     margin: 15px;
   }
 }
+
+
+
+// mios Jesús //
+
+#mc_embed_signup {
+  font: 34px Helvetica,Arial,sans-serif!important;
+    background-image: -webkit-linear-gradient(left bottom, #b6dae1, #BDBDBD);
+    background-image: -moz-linear-gradient(left bottom, #b6dae1, #BDBDBD);
+    background-image: -o-linear-gradient(left bottom, #b6dae1, #BDBDBD);
+    background-image: -ms-linear-gradient(left bottom, #b6dae1, #BDBDBD);
+}
+
+
+#mc_embed_signup input.email {
+    height: 52px!important;
+}
+
+#mc_embed_signup .button {
+    color: #333333!important;
+    background-color: #fdd338!important;
+    height: 52px!important;
+}
